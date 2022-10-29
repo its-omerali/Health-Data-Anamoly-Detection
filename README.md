@@ -1,4 +1,4 @@
-# Patient
+# ML anomaly detection based approach for early COVID-19 symptoms identification.
 
 #Introduction
 Anomaly detection project for real-time patient data focusing on the initial symptoms of Covid-19
@@ -48,3 +48,7 @@ The SVAI score, together with temperature readings and BMI score is calculated f
 3.KMeans_cluster.py                -> To Compute KMeans clusters for the provided dataset
 4.DBSCAN.py                        -> To Compute clusters and detect anomalies
 
+#REFERENCES
+1. Ali, O., Ishak, M. K., & Bhatti, M. K. L. (2021). Early COVID-19 symptoms identification using hybrid unsupervised machine learning techniques. Computers, Materials and Continua, 747-766.
+
+2. Omer, A., Khairi, M., & Ishak, M. K. L. (2022). A Machine Learning Approach for Early COVID-19 Symptoms Identification. Computers, Materials, & Continua, 3803-3820.
