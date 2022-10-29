@@ -10,9 +10,8 @@ from sklearn import metrics
 from sklearn.datasets import make_blobs
 from numpy import random, where
 
-#currently this is running on Credit Card dataset, maybe I can transform
-#this and use it on my own dataset
-from dbscan2_credit_card import cvec
+
+
 gc.collect()
 X = pd.read_csv('patient_records_dbscan.csv')
 
